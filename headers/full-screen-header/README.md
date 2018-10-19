@@ -1,1 +1,1 @@
-Teljes képernyõs header
+Teljes kepernyos header
